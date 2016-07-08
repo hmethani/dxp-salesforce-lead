@@ -1,0 +1,53 @@
+<div id="leads">
+	<div class="search-container">
+		<div class="search-title row-fluid">
+			<div class="span2">
+				<h3>Search Leads</h3>
+			</div>
+			<div class="span10"></div>
+		</div>
+		<div class="search-fields row-fluid">
+			<div class="span3">
+				<label for="company"><strong>Company Name:</strong></label>
+				<input id="company" type="text" data-ng-model="vm.search.company" placeholder="e.g: Xtivia Inc.">
+			</div>
+			<div class="span3">
+				<label for="contact"><strong>Contact Name:</strong></label>
+				<input id="contact" type="text" data-ng-model="vm.search.name" placeholder="e.g: Jane Doe"> 
+			</div>
+			<div class="span3">
+				<label for="email"><strong>Contact Email:</strong></label>
+				<input id="email" type="text" data-ng-model="vm.search.email" placeholder="e.g: jane.doe@xtivia.com">
+			</div>
+			<div class="search-action span3">
+				<button name="searchSubmit" class="btn btn-primary" data-ng-click="vm.searchLeads()">Search Leads</button>
+				<button name="resetSubmit" class="btn btn-default" data-ng-click="vm.resetSearch()">Clear</button>
+			</div>
+		</div>
+	</div>
+	<div class="loading" data-ng-if="!vm.loaded">
+		<i class="spinner">&nbsp;</i>
+	</div>
+	<div class="search-results" data-ng-if="vm.loaded">
+		<table data-datatable="ng" data-dt-options="vm.tableOptions" class="row-border hover leadsTable">
+			<thead>
+				<tr>
+					<th>Company Name</th>
+					<th>Contact</th>
+					<th>Status</th>
+					<th>Email</th>
+					<th>City</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr data-ng-repeat="lead in vm.leads">
+					<td><a href="javascript:void(0);" data-ng-click="vm.goToDetails(lead);">{{lead.company}}</a></td>
+					<td>{{lead.name}}</td>
+					<td>{{lead.status}}</td>
+					<td>{{lead.email}}</td>
+					<td>{{lead.city}}</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</div>

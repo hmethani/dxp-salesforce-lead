@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: dxp-salesforce-lead
+Bundle-SymbolicName: dxp-salesforce-lead
+Bundle-Version: 0.0.0
+Created-By: 1.8.0_92 (Oracle Corporation)
+Import-Package: aQute.bnd.annotation.metatype;version="[1.45,2)",com.l
+ iferay.portal.configuration.metatype.bnd.util;version="[2.0,3)",com.l
+ iferay.portal.kernel.log,com.liferay.portal.kernel.portlet,com.lifera
+ y.portal.kernel.portlet.bridges.mvc,com.liferay.portal.kernel.util,ja
+ vax.portlet,javax.servlet.http
+Private-Package: com.xtivia.salesforce.leads.configuration,com.xtivia.
+ salesforce.leads.portlet,com.xtivia.salesforce.leads.util,com.xtivia.
+ salesforce.model,com.xtivia.salesforce.rest,com.xtivia.salesforce.sin
+ gleton.exceptions,com.xtivia.salesforce.util,content
+Provide-Capability: osgi.service;objectClass:List<String>="com.liferay
+ .portal.kernel.portlet.ConfigurationAction",osgi.service;objectClass:
+ List<String>="javax.portlet.Portlet"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Service-Component: OSGI-INF/com.xtivia.salesforce.leads.configuration.
+ LeadsConfigurationAction.xml,OSGI-INF/com.xtivia.salesforce.leads.por
+ tlet.SalesForceLeadsPortlet.xml
+Tool: Bnd-3.2.0.201605172007

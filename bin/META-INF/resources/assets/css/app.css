@@ -1,0 +1,128 @@
+@import url(animate/animate.css);
+
+@import url(toastr/toastr.min.css);
+
+@import url(datatables/jquery.dataTables.min.css);
+
+@import url(datatables/jquery.dataTables_themeroller.css);
+
+@import url(datatables/datatables.bootstrap.min.css);
+
+a {
+	cursor: pointer;
+}
+
+.search-fields input {
+	margin-right: 10px;
+}
+
+.search-fields label {
+	display: inline;
+	margin-right: 15px;
+}
+
+.search-actions button {
+	margin-right: 5px;
+}
+
+.search-results {
+	margin-top: 25px;
+}
+
+table.dataTable th {
+	padding: 10px;
+	text-align: left;
+}
+
+table.dataTable td {
+	text-align: left;
+}
+
+table.dataTable thead {
+  background-color: #F3F3F3;
+}
+
+table.dataTable tr.even {
+  background-color: #F3F3F3;
+}
+
+table.dataTable tr.odd {
+  background-color: #FFFFFF;
+}
+
+.aui .dataTables_length {
+	margin-top: 20px;
+}
+
+.aui .dataTables_paginate {
+	margin-top: 20px;
+}
+
+/* Lead Details */
+
+.lead_details {
+	width: 50%;
+	margin: 10px 0;
+}
+
+.lead_details tr {
+	border: 1px solid #CCC;
+}
+
+.lead_details .prop {
+	height: 50px;
+}
+
+.lead_details td {
+	padding-left: 10px;
+}
+
+.lead_details td.title {
+	width: 20%;
+}
+
+.prop:nth-child(even) {
+  background-color: #F3F3F3;
+}
+
+.prop:nth-child(odd) {
+  background-color: #FFFFFF;
+}
+
+i.spinner {
+	width: 130px;
+	height: 130px;
+	margin-left: 50%;
+	background-image: url("/salesforce-leads-portlet/assets/images/busy.gif");
+	display: block;
+}
+
+div.loading {
+	min-height: 500px;
+}
+
+/* Configuration */
+
+.config-instructions div {
+	padding-bottom: 10px;
+}
+
+.aui .control-label {
+	font-weight: bold;
+}
+
+.instructions {
+	display: block;
+	font-size: small;
+	font-style: italic;
+	margin: 10px 0;
+}
+
+.instruction-text {
+	margin: 20px 0;
+	width: 40%;
+}
+
+.aui .control-group {
+	margin-bottom: 15px;
+}

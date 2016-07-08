@@ -1,0 +1,69 @@
+<div class="loading" data-ng-if="!vm.loaded">
+	<i class="spinner">&nbsp;</i>
+</div>
+<div id="leads" data-ng-if="vm.loaded">
+	<div class="row-fluid">
+		<div class="span12"><strong><a data-ui-sref="leads">Back to Leads</a></strong></div>
+	</div>
+	<div class="row-fluid">
+		<table class="lead_details">
+			<tbody class="row">
+				<tr class="edge prop">
+					<td class='title'>Lead</td>
+					<td><strong>{{vm.lead.company}}</strong></td>
+				</tr>
+				<tr class="prop">
+					<td class='title'>Status</td>
+					<td><strong>{{vm.lead.status}}</strong></td>
+				</tr>
+				<tr class="prop">
+					<td class='title'>Lead Description</td>
+					<td><strong>{{vm.lead.description}}</strong></td>
+				</tr>
+				<tr class="prop">
+					<td class='title'>Contact Name</td>
+					<td><strong>{{vm.lead.name}}</strong></td>
+				</tr>
+				<tr class="prop">
+					<td class='title'>Title</td>
+					<td><strong>{{vm.lead.title}}</strong></td>
+				</tr>
+				<tr class="prop">
+					<td class='title'>Email</td>
+					<td><strong>{{vm.lead.email}}</strong></td>
+				</tr>
+				<tr class="prop">
+					<td class='title'>Phone</td>
+					<td><strong>{{vm.lead.phone}}</strong></td>
+				</tr>
+				<tr class="prop">
+					<td class='title'>Mobile Phone</td>
+					<td><strong>{{vm.lead.mobilePhone}}</strong></td>
+				</tr>
+				<tr class="prop">
+					<td class='title'>City</td>
+					<td><strong>{{vm.lead.city}}</strong></td>
+				</tr>
+				<tr class="prop">
+					<td class='title'>State</td>
+					<td><strong>{{vm.lead.state}}</strong></td>
+				</tr>
+				<tr class="prop">
+					<td class='title'>Country</td>
+					<td><strong>{{vm.lead.country}}</strong></td>
+				</tr>
+				<tr class="prop">
+					<td class='title'>Website</td>
+					<td><strong><a href="{{vm.lead.website}}" target="about:blank">{{vm.lead.website}}</a></strong></td>
+				</tr>
+				<tr class="prop">
+					<td class='title'>Number of Employees</td>
+					<td><strong>{{vm.lead.numberOfEmployees}}</strong></td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<div class="row-fluid">
+		<div class="span12"><strong><a data-ui-sref="leads">Back to Leads</a></strong></div>
+	</div>
+</div>

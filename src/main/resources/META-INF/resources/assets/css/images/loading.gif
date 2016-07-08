@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='GitLab Enterprise Edition' name='description'>
+<title>market-salesforce-opportunity-portlet/src/main/webapp/assets/images/loading.gif | master | Liferay Marketplace / market-salesforce-opportunities-portlet | GitLab</title>
+<link href="/assets/favicon-5738a6efe01f3282080df5f467da72a9.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+<link href="/assets/application-56ed80ff102ee121082159ffb4e8ccc0.css" media="all" rel="stylesheet"/>
+<link href="/assets/print-47fe51cdf70398e5e54b544e0f5cc718.css" media="print" rel="stylesheet"/>
+<script src="/assets/application-9eaa6358c266dfebe57da1fd82c277ce.js"></script>
+<meta content="authenticity_token" name="csrf-param"/>
+<meta content="bUcKhMsL2dF6xRgm+XkyBEmR3hKDGKtRiiNBuJrk2tg=" name="csrf-token"/>
+<script type="text/javascript">//<![CDATA[
+window.gon={};gon.default_issues_tracker="gitlab";gon.api_version="v3";gon.relative_url_root="";gon.default_avatar_url="https://projects.austin.xtivia.com/assets/no_avatar-0b64d25ac5f63e6f0caee99e819105ba.png";gon.max_file_size=10;gon.current_user_id=52;gon.api_token="K3iStNEYJ_CxcRk4Hdt5";
+//]]></script>
+<meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'>
+<meta content='#474D57' name='theme-color'>
+<link href="/assets/touch-icon-iphone-4c0496ac9f88e7961644c66b289a6614.png" rel="apple-touch-icon" type="image/vnd.microsoft.icon"/>
+<link href="/assets/touch-icon-ipad-d64abe7a8e8be6e02245d2ed79da6ff9.png" rel="apple-touch-icon" sizes="76x76" type="image/vnd.microsoft.icon"/>
+<link href="/assets/touch-icon-iphone-retina-54af16810ab006406b4df81f8a92fe8d.png" rel="apple-touch-icon" sizes="120x120" type="image/vnd.microsoft.icon"/>
+<link href="/assets/touch-icon-ipad-retina-72774a950890a9e3811ab91f186cc11f.png" rel="apple-touch-icon" sizes="152x152" type="image/vnd.microsoft.icon"/>
+<meta content='/assets/msapplication-tile-0cf7066c37c04d40809fdcc2bf53a754.png' name='msapplication-TileImage'>
+<meta content='#30353E' name='msapplication-TileColor'>
+
+
+
+
+<style>[data-user-is]{display:none!important}[data-user-is="52"]{display:block!important}[data-user-is="52"][data-display="inline"]{display:inline!important}[data-user-is-not]{display:block!important}[data-user-is-not][data-display="inline"]{display:inline!important}[data-user-is-not="52"]{display:none!important}</style>
+
+</head>
+
+<body class='ui_green' data-page='projects:blob:show'>
+<script>window.project_uploads_path="/liferay-marketplace/market-salesforce-opportunities-portlet/uploads";window.markdown_preview_path="/liferay-marketplace/market-salesforce-opportunities-portlet/markdown_preview";</script>
+
+<header class='header-expanded navbar navbar-fixed-top navbar-gitlab'>
+<div class='container'>
+<div class='header-logo'>
+<a class="home" data-placement="bottom" data-toggle="tooltip" href="/" id="js-shortcuts-home" title="Dashboard"><script pagespeed_no_defer="">//<![CDATA[
+(function(){var g=this,h=function(b,d){var a=b.split("."),c=g;a[0]in c||!c.execScript||c.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===d?c[e]?c=c[e]:c=c[e]={}:c[e]=d};var l=function(b){var d=b.length;if(0<d){for(var a=Array(d),c=0;c<d;c++)a[c]=b[c];return a}return[]};var m=function(b){var d=window;if(d.addEventListener)d.addEventListener("load",b,!1);else if(d.attachEvent)d.attachEvent("onload",b);else{var a=d.onload;d.onload=function(){b.call(this);a&&a.call(this)}}};var n,p=function(b,d,a,c,e){this.f=b;this.h=d;this.i=a;this.c=e;this.e={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.g=c;this.b={};this.a=[];this.d={}},q=function(b,d){var a,c,e=d.getAttribute("pagespeed_url_hash");if(a=e&&!(e in b.d))if(0>=d.offsetWidth&&0>=d.offsetHeight)a=!1;else{c=d.getBoundingClientRect();var f=document.body;a=c.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);c=c.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+c;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.e.height&&c<=b.e.width)}a&&(b.a.push(e),b.d[e]=!0)};p.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&q(this,b)};h("pagespeed.CriticalImages.checkImageForCriticality",function(b){n.checkImageForCriticality(b)});h("pagespeed.CriticalImages.checkCriticalImages",function(){r(n)});var r=function(b){b.b={};for(var d=["IMG","INPUT"],a=[],c=0;c<d.length;++c)a=a.concat(l(document.getElementsByTagName(d[c])));if(0!=a.length&&a[0].getBoundingClientRect){for(c=0;d=a[c];++c)q(b,d);a="oh="+b.i;b.c&&(a+="&n="+b.c);if(d=0!=b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),c=1;c<b.a.length;++c){var e=","+encodeURIComponent(b.a[c]);131072>=a.length+e.length&&(a+=e)}b.g&&(e="&rd="+encodeURIComponent(JSON.stringify(s())),131072>=a.length+e.length&&(a+=e),d=!0);t=a;if(d){c=b.f;b=b.h;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(k){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(u){}}f&&(f.open("POST",c+(-1==c.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}},s=function(){var b={},d=document.getElementsByTagName("IMG");if(0==d.length)return{};var a=d[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var c=0;a=d[c];++c){var e=a.getAttribute("pagespeed_url_hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].k&&a.height>=b[e].j)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b},t="";h("pagespeed.CriticalImages.getBeaconData",function(){return t});h("pagespeed.CriticalImages.Run",function(b,d,a,c,e,f){var k=new p(b,d,a,e,f);n=k;c&&m(function(){window.setTimeout(function(){r(k)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','https://projects.austin.xtivia.com/liferay-marketplace/market-salesforce-opportunities-portlet/blob/master/market-salesforce-opportunity-portlet/src/main/webapp/assets/images/loading.gif','B6nXayd9mu',true,false,'R1FMXQb2dSI');
+//]]></script><img alt="Logo" src="/assets/logo-ca207549507c811d027110077cf86e90.svg" pagespeed_url_hash="2992800748" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+<div class='gitlab-text-container'>
+<h3>GitLab</h3>
+</div>
+</a></div>
+<div class='header-content'>
+<button class='navbar-toggle' type='button'>
+<span class='sr-only'>Toggle navigation</span>
+<i class="fa fa-bars"></i>
+</button>
+<div class='navbar-collapse collapse'>
+<ul class='nav navbar-nav pull-right'>
+<li class='hidden-sm hidden-xs'>
+<div class='search'>
+<form accept-charset="UTF-8" action="/search" class="navbar-form pull-left" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;"/></div>
+<input class="search-input form-control" id="search" name="search" placeholder="Search in this project" type="search"/>
+<input id="group_id" name="group_id" type="hidden"/>
+<input id="project_id" name="project_id" type="hidden" value="366"/>
+<input id="search_code" name="search_code" type="hidden" value="true"/>
+<input id="repository_ref" name="repository_ref" type="hidden" value="master"/>
+
+<div class='search-autocomplete-opts hide' data-autocomplete-path='/search/autocomplete' data-autocomplete-project-id='366' data-autocomplete-project-ref='master'></div>
+</form>
+
+</div>
+<script>$('.search-input').on('keyup',function(e){if(e.keyCode==27){$('.search-input').blur()}})</script>
+
+</li>
+<li class='visible-sm visible-xs'>
+<a data-placement="bottom" data-toggle="tooltip" href="/search" title="Search"><i class="fa fa-search"></i>
+</a></li>
+<li class='hidden-xs'>
+<a data-placement="bottom" data-toggle="tooltip" href="/help" title="Help"><i class="fa fa-question-circle fa-fw"></i>
+</a></li>
+<li>
+<a data-placement="bottom" data-toggle="tooltip" href="/explore" title="Explore"><i class="fa fa-globe fa-fw"></i>
+</a></li>
+<li>
+<a data-placement="bottom" data-toggle="tooltip" href="/s/psudarshan" title="Your snippets"><i class="fa fa-clipboard fa-fw"></i>
+</a></li>
+<li class='hidden-xs'>
+<a data-placement="bottom" data-toggle="tooltip" href="/projects/new" title="New project"><i class="fa fa-plus fa-fw"></i>
+</a></li>
+<li>
+<a data-placement="bottom" data-toggle="tooltip" href="/profile" title="Profile settings"><i class="fa fa-cog fa-fw"></i>
+</a></li>
+<li>
+<a class="logout" data-method="delete" data-placement="bottom" data-toggle="tooltip" href="/users/sign_out" rel="nofollow" title="Sign out"><i class="fa fa-sign-out"></i>
+</a></li>
+</ul>
+</div>
+<h1 class='title'><span><a href="/groups/liferay-marketplace">Liferay Marketplace</a> / <a href="/liferay-marketplace/market-salesforce-opportunities-portlet">market-salesforce-opportunities-portlet</a></span></h1>
+</div>
+</div>
+</header>
+
+
+<div class='page-sidebar-expanded page-with-sidebar'>
+
+<div class='sidebar-wrapper nicescroll'>
+<ul class='nav nav-sidebar'>
+<li class=""><a class="back-link" data-placement="right" href="/groups/liferay-marketplace" title="Back to group"><i class="fa fa-caret-square-o-left fa-fw"></i>
+<span>
+Back to Group
+</span>
+</a></li><li class='separate-item'></li>
+<li class="home"><a class="shortcuts-project" data-placement="right" href="/liferay-marketplace/market-salesforce-opportunities-portlet" title="Project"><i class="fa fa-home fa-fw"></i>
+<span>
+Project
+</span>
+</a></li><li class=""><a class="shortcuts-project-activity" data-placement="right" href="/liferay-marketplace/market-salesforce-opportunities-portlet/activity" title="Project Activity"><i class="fa fa-dashboard fa-fw"></i>
+<span>
+Activity
+</span>
+</a></li><li class="active"><a class="shortcuts-tree" data-placement="right" href="/liferay-marketplace/market-salesforce-opportunities-portlet/tree/master" title="Files"><i class="fa fa-files-o fa-fw"></i>
+<span>
+Files
+</span>
+</a></li><li class=""><a class="shortcuts-commits" data-placement="right" href="/liferay-marketplace/market-salesforce-opportunities-portlet/commits/master" title="Commits"><i class="fa fa-history fa-fw"></i>
+<span>
+Commits
+</span>
+</a></li><li class=""><a class="shortcuts-network" data-placement="right" href="/liferay-marketplace/market-salesforce-opportunities-portlet/network/master" title="Network"><i class="fa fa-code-fork fa-fw"></i>
+<span>
+Network
+</span>
+</a></li><li class=""><a class="shortcuts-graphs" data-placement="right" href="/liferay-marketplace/market-salesforce-opportunities-portlet/graphs/master" title="Graphs"><i class="fa fa-area-chart fa-fw"></i>
+<span>
+Graphs
+</span>
+</a></li><li class=""><a data-placement="right" href="/liferay-marketplace/market-salesforce-opportunities-portlet/milestones" title="Milestones"><i class="fa fa-clock-o fa-fw"></i>
+<span>
+Milestones
+</span>
+</a></li><li class=""><a class="shortcuts-issues" data-placement="right" href="/liferay-marketplace/market-salesforce-opportunities-portlet/issues" title="Issues"><i class="fa fa-exclamation-circle fa-fw"></i>
+<span>
+Issues
+<span class='count issue_counter'>0</span>
+</span>
+</a></li><li class=""><a class="shortcuts-merge_requests" data-placement="right" href="/liferay-marketplace/market-salesforce-opportunities-portlet/merge_requests" title="Merge Requests"><i class="fa fa-tasks fa-fw"></i>
+<span>
+Merge Requests
+<span class='count merge_counter'>0</span>
+</span>
+</a></li><li class=""><a data-placement="right" href="/liferay-marketplace/market-salesforce-opportunities-portlet/labels" title="Labels"><i class="fa fa-tags fa-fw"></i>
+<span>
+Labels
+</span>
+</a></li><li class=""><a class="shortcuts-wiki" data-placement="right" href="/liferay-marketplace/market-salesforce-opportunities-portlet/wikis/home" title="Wiki"><i class="fa fa-book fa-fw"></i>
+<span>
+Wiki
+</span>
+</a></li><li class=""><a class="shortcuts-snippets" data-placement="right" href="/liferay-marketplace/market-salesforce-opportunities-portlet/snippets" title="Snippets"><i class="fa fa-file-text-o fa-fw"></i>
+<span>
+Snippets
+</span>
+</a></li></ul>
+
+<div class='collapse-nav'>
+<a class="toggle-nav-collapse" href="#" title="Open/Close"><i class="fa fa-angle-left"></i></a>
+
+</div>
+<a class="sidebar-user" href="/u/psudarshan"><img alt="User activity" class="avatar avatar s32" src="https://projects.austin.xtivia.com/uploads/user/avatar/52/Pavan.jpg" pagespeed_url_hash="126459634" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+<div class='username'>
+psudarshan
+</div>
+</a></div>
+<div class='content-wrapper'>
+<div class='container-fluid'>
+<div class='content'>
+<div class='flash-container'>
+</div>
+
+<div class='clearfix'>
+
+<div class='tree-ref-holder'>
+<form accept-charset="UTF-8" action="/liferay-marketplace/market-salesforce-opportunities-portlet/refs/switch" class="project-refs-form" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;"/></div>
+<select class="project-refs-select select2 select2-sm" id="ref" name="ref"><optgroup label="Branches"><option selected="selected" value="master">master</option></optgroup><optgroup label="Tags"></optgroup></select>
+<input id="destination" name="destination" type="hidden" value="blob"/>
+<input id="path" name="path" type="hidden" value="market-salesforce-opportunity-portlet/src/main/webapp/assets/images/loading.gif"/>
+</form>
+
+
+</div>
+<div class='tree-holder' id='tree-holder'>
+<ul class='breadcrumb repo-breadcrumb'>
+<li>
+<i class='fa fa-angle-right'></i>
+<a href="/liferay-marketplace/market-salesforce-opportunities-portlet/tree/master">market-salesforce-opportunities-portlet
+</a></li>
+<li>
+<a href="#">..</a>
+</li>
+<li>
+<a href="/liferay-marketplace/market-salesforce-opportunities-portlet/tree/master/market-salesforce-opportunity-portlet/src/main/webapp/assets/images">images</a>
+</li>
+<li>
+<a href="/liferay-marketplace/market-salesforce-opportunities-portlet/blob/master/market-salesforce-opportunity-portlet/src/main/webapp/assets/images/loading.gif"><strong>
+loading.gif
+</strong>
+</a></li>
+</ul>
+<ul class='blob-commit-info well hidden-xs'>
+<li class='commit js-toggle-container'>
+<div class='commit-row-title'>
+<strong class='str-truncated'>
+<a class="commit-row-message" href="/liferay-marketplace/market-salesforce-opportunities-portlet/commit/e2892c011a17b3f2e16888a3b7482437569fc371">Initial commit</a>
+</strong>
+<div class='pull-right'>
+<a class="commit_short_id" href="/liferay-marketplace/market-salesforce-opportunities-portlet/commit/e2892c011a17b3f2e16888a3b7482437569fc371">e2892c01</a>
+</div>
+<div class='notes_count'>
+</div>
+</div>
+<div class='commit-row-info'>
+<a class="commit-author-link has_tooltip" data-original-title="sgupta@warbler" href="mailto:sgupta@warbler"><img alt="" class="avatar s24" src="https://secure.gravatar.com/avatar/ecdf72560d2384a7386cdd1fb6743a7e?s=24&amp;d=identicon" width="24" pagespeed_url_hash="1049022704" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/> <span class="commit-author-name">sgupta</span></a>
+authored
+<div class='committed_ago'>
+<time class="time_ago js-timeago" data-placement="top" data-toggle="tooltip" datetime="2015-09-16T15:23:14Z" title="Sep 16, 2015 3:23pm">2015-09-16 10:23:14 -0500</time> &nbsp;
+</div>
+<a class="pull-right" href="/liferay-marketplace/market-salesforce-opportunities-portlet/tree/e2892c011a17b3f2e16888a3b7482437569fc371">Browse Code »</a>
+</div>
+</li>
+
+</ul>
+<div class='tree-content-holder' id='tree-content-holder'>
+<article class='file-holder'>
+<div class='file-title'>
+<i class="fa fa-file-image-o fa-fw"></i>
+<strong>
+loading.gif
+</strong>
+<small>
+7.94 KB
+</small>
+<div class='file-actions hidden-xs'>
+<div class='btn-group tree-btn-group'>
+
+<a class="btn btn-sm" href="/liferay-marketplace/market-salesforce-opportunities-portlet/raw/master/market-salesforce-opportunity-portlet/src/main/webapp/assets/images/loading.gif" target="_blank">Raw</a>
+<a class="btn btn-sm" href="/liferay-marketplace/market-salesforce-opportunities-portlet/commits/master/market-salesforce-opportunity-portlet/src/main/webapp/assets/images/loading.gif">History</a>
+<a class="btn btn-sm" href="/liferay-marketplace/market-salesforce-opportunities-portlet/blob/493f395bc08594e42a381f259565e552b18592b4/market-salesforce-opportunity-portlet/src/main/webapp/assets/images/loading.gif">Permalink</a>
+</div>
+<button class="remove-blob btn btn-sm btn-remove" data-target="#modal-remove-blob" data-toggle="modal" name="button" type="submit">Remove
+</button>
+</div>
+</div>
+<div class='file-content image_file'>
+<img src='data:image/gif;base64,R0lGODlhHwGNAMQSACEYGIR7e4yMhJyclJycnKWlpa2trbWtpbW1tb29vca9&#x000A;tcbGxs7Oxs7OztbW1t7e1t7e3ufn5////wAAAAAAAAAAAAAAAAAAAAAAAAAA&#x000A;AAAAAAAAAAAAAAAAAAAAAP///yH/C05FVFNDQVBFMi4wAwEAAAAh+QQJDAAS&#x000A;ACwAAAAAHwGNAAAF/qAkjmRpnmiqrmzrvnAsz3Rt33iu73zv/8CgcEgsGo/I&#x000A;pHLJbDqf0Kh0Sq1ar9isdsvter/gsHhMLpvP6LR6zW673/C4fE6v2+/4vH7P&#x000A;7/v/gIGCg4SFhoeIiYqLjI2Oj5CRkpOUlZaXmJmam5ydnp+goaKjpKWmeAoR&#x000A;p6stEQIBAwyssycDAbcBAgq0oBG7KRG4wgS8na4BBhAoB8K4CcWbx7cCyhIR&#x000A;BwcFA6/NAtCa0rgCDMzNwq/e35fh5u3N1eqVDO70udMO8Zfl0/Xm6fmVDNAT&#x000A;YKCgAW7CDAC0JLDbsxINEOaCt1ASgXMNUDyQOKAiJYnEUiRo5lGSAokP/lZI&#x000A;NIDggAIF+EoqOokrpIqG3QR0lJloHywWPpvt5HlIwTAWOCUiI4rIAcJ/KWy5&#x000A;e8iUUASpuGSpUCqMatVAQW/ZPMGM662vgg6YvaXwBE1xBAZcDIA20FpcQ0cE&#x000A;FRDTVAQIDRwEVkUCsGDBiyQ+nSZAGwGuGbFECEyZ8BkHcQnEjSwiQubMlov2&#x000A;6zfWCgLNcgm0PdMgs9wFJDzLnR36kOK5/RpvSeBadZrWqQdwtvZZLsVDDQni&#x000A;a4DVHewRDk4WoHJ6tm80wDM/79ybQG3bpSUwF7D4rIhtCI+PuPrLSPXMq81g&#x000A;Dr6989/7lxjgFAZhozmvJJTDl3u9xVdGdq+R/sKVQs3dkhcJirUXBG/WGfgC&#x000A;BAwgkAACgbkQgQMLbLjhAg18lwIEGnKoTHablRDBizCaAOOLsTWgYQLqoQBB&#x000A;AhuWaF+MaHDV0X649KcKYWEtJcR7clm4QgS89ZYaAiaKUABqUmpGQH0nRGkd&#x000A;AQUY0BuXV1rn4pWZPROBmMFpluMIXrpWQJwEADgGbuJIYJQ4jJFHnlrtpLRk&#x000A;gTDMl6V1XHKXZZYpsHlocVxiKZeLBTLZXV8lOPqldbM5GYaAAqj20Gj+sEWE&#x000A;pZ6e0Fp3m8aVqGzFLRqeBJpKGuuWJdhKKae2dndCrY/GhUAaPGo1wjyk+lME&#x000A;hfB52GsCDdApV22w/hqwAIkJiHlpCcwWqO2Yufa2q61ttompBN1WaECZn6V6&#x000A;xl2j2fkDqi4wK9d0JNSKLwkJnDtCrV551lsBoS0ALgnsThpbd3VC4PBpB4/Q&#x000A;K6YQSOquFwIMO8KeybZzsQ70tmDrcbBmBkPFrsXHwJfhIYgrCbouHNy+IyDQ&#x000A;ZnyYiTtuk2cIuAvHfE7j2l0f4xDyChXP/Gtvw8kImI21xufYbImyKFy4Zsrc&#x000A;LESE1tybnSUPUHQW7KwlgLwQHHSOqULYe90KC3wpb5wDyNsAmrwGF1/MXCOK&#x000A;tclax2Vh0qjt3Zu/sPJcRpJ8CpBoCWkvGJugIHe9gqWPu2xgzq3yulrY/rNa&#x000A;HanO61leeoUw96Ze2GNjAW8ABPiLwkjdSODAAds8eMPRKrideXHxGdx5AXgL&#x000A;fvpnqkZsJenc6S0j8Klbt7rpn+YWA9DtULMD7ylgnjzqzbuG4/GafR7rCYa2&#x000A;GD3gxyuutfsSjPy882T4pJT2MdC+lrE4uF00A8XRWAlW9pntWKppiXtb/Jg3&#x000A;ApeNLmvkE9v8CpcvSE0QfmKIXDvk1QJ46a4G3NPRl2g2goTFTmIMJA74RBCr&#x000A;ponHgutTWPsUGD74ERCCETRQBFLUIxOIKEUmcAAPqTQECDQIKjFoQPamsT3q&#x000A;pcBW1OLbAnFYQwVaKjw31MwD2Rc+443LiyIw/iKWVAMPCJjQQFbToRRF4L0h&#x000A;IMsZNmhQM2Y1gytq5kp4BBOY4MQry6zpSwKUwNQ0E7AzkuABbdLMA15kxliR&#x000A;iYEJtFAkw8Ww4tEPOtRLYHjc5kIfBOUGb/QHB2XgNl75CoWfAVMCLKkZbmVJ&#x000A;Q4NMjYG0ZMq8vQyFVGTdBMEoAgeU61EYtFogVYglE7RRCM1BogwYcD8CQEB2&#x000A;NLhiLbkoxmkG51ygi9XNINc5bWrxbzKsoiSdWEpv8vKFK6yi7o4ZhObQ8QX+&#x000A;wUXrYGCpX7YJcrR8VI44J6UCaM6HvWoS3bYYTmKe06ASNMGqpIQj6qXxiwWV&#x000A;wAGHwI4PwiCeYpkX/qu8GdEXbvRxI0AZuHRpApR9aTmpJGhpJrkzGpLAAdli&#x000A;SWRMKqwSGAqDmgSo34YAkhtg9CdaEAyJoHmCCJBoAVV60lGTaoVu3ZIM0eGI&#x000A;T1dSFwm8iTiqI8M15JgLUDZjnuq4IwMcAKMHlLMMXC2SDT5ZVRPaUjOd9EKS&#x000A;uGFRFyilqlMMllyGGQbsKeaqK7BfLkbpkYBKCaRggBdYR2A2oi7ERm69I2LD&#x000A;gCd/LLYA9nAH/75yH8CS4Y2qkSPlOmg9vM6BAAoQ1E9zMTbM9mOxpj0Dke6h&#x000A;AkCVNrZ4MBtMFrlIcpjlbM0hLG7fAIG7+Ik89YiJEbs63DwUlx8dUyu/ozbb&#x000A;XDqstmP4q64fGJdZd8BWu21gR3S/C941mEUhDSiI2OQogNGWNw+2tYcyJYAs&#x000A;iXj2vXJYrjxPcN264rcOkZuvCIhEkP/+4QHuDZBYDEBdAxuCAA12sIQnTOEK&#x000A;W/jCGM6whjfM4Q57+MMgDrGIR0ziEpv4xChOsYpXzOIWu/jFMI6xjGdM4xrb&#x000A;+MY4zrGOd8zjHvv4x0AOspCHTOQiGzkKIQAAIfkECQwAEgAsAAAAAB8BjQAA&#x000A;Bf6gJI5kaZ5oqq5s675wLM90bd94ru987//AoHBILBqPyKRyyWw6n9CodEqt&#x000A;Wq/YrHbL7Xq/4LB4TC6bz+i0es1uu9/wuHxOr9vv+Lx+z+/7/4CBgoOEhYaH&#x000A;iImKi4yNjo+QkZKTlJWWl5iZmpucnZ6foKGio6SlpqeofgIFqa0oEQIBAQcr&#x000A;Dg+uoA4DsbICECmwAb+4nASyx7IJr7zCxJsHyMcCCggHCg4MEsHIBs6azNHS&#x000A;AuDc3pgN0uHq4cPmlQbr8QG87e6UDPHkyAIO9pbb0QgM2LWum79KA6IJMDgi&#x000A;QcJ9BysBnFePBDxkFSM6woesgQpwDDU+eiiLwIoEvf4CDBAJSQG4bCuYCYDJ&#x000A;8lAEBQQKkJvJwlivWzUPKchHMwVJAUCDGsq3gAW4ARmVAtp5zGTMcAIQJJX6&#x000A;x+e8cFtNeMUalWsejuusnoAWb6XZPw/07ctYYB29UREgNHCwN0IJvXz5Jnpg&#x000A;YEACZRL0ZR1A4IBiZGqjRNhL2S8aBwIJCPQ4IkLmzJYbNZBrl1y/KQg0MyYQ&#x000A;skyDzIybdoYtMHQjBqQV9kswbl7YJwlotybzevUAziI8GydQNhEDkikhl2hg&#x000A;YPiBAgpsH0nNmPHwMcUzy05Om4B2RxcVEihqoGiJhwIGHDgvhHvm72IwGx+f&#x000A;PK9/SkOxMwJhsrh1gj4GEv5hn3dphBfbJ2xBJMEDjiHjnggBRnNhEMF1xxoN&#x000A;EDCAQAII7OVCBA4sQCKJCzRAHwoQjFjiL+FtVkIEOOZoQo44kjDZiAk099dh&#x000A;JVrG44tcpFfVhOokOEKEyCCx4IcwRBAcbashgGQBqmGpGQH8nXClhzkZQFuY&#x000A;XHp4I5eZKROBmcsxp8KYsBVAJwGIhQFlgRPKlQBOBeyiUzj4ATFloSfo56WH&#x000A;YZLnpZcpwLnoZwOE2SVjNwo3JZmnmSApmR52h2gWBPDCi1VKyrOPLMgVcegL&#x000A;r5UHqkCNKkfpo5GN8Omlt4JZAq+ZhspreSfsOqlACJQBwYoGJCWTqtE0e0SH&#x000A;9/6dOGwCDdzJmHa2GrBAiwmYWV6nIlArnLhn/kpbsLwutxy5EpjrYXVpfjbq&#x000A;GGhBi9WGP7zaArWMsWIRbQKTkAC8utKWpza8FmDbAumSUC+mPpaHJwQYpxbx&#x000A;CMOSC8Gl94qxp77RtOqSAj742xNtFdmaGQwfwxbSc5/lKoGDvpIAbMXGFTwC&#x000A;AsuFhNm67DLIxsj7wCZPNhGwJUDKwrXwcc/F0tbqjno1gMCuIQUKW6M1Hqeu&#x000A;mjxXO13UPyu8I6Uhf+GAXQuP0AB0zBB0TNsvAEzlCguQGXe5l/59M5vCGhfS&#x000A;zmczOvbLZQs03NSqHU4bwrYaTYZtESg0j+AGQxdPD/4qqzBlozejPcLQswrL&#x000A;kMsUJ66apUTPNu/as3PMMu2Rl+GSNSJ4HoDNKYylzkI8hJ6C3qSHHRLEqRdA&#x000A;uOOyf3YCzmjGTp7huENvu4cZVb63GDLpg3fvqiK1g/EojD696d4b1o7Le7MO&#x000A;vKI26mw9w7WXbbkEvHbP9uXyiM8MhKcQfs1AbyFjAKWSZQKarWY8U7qa9yRH&#x000A;Ntc9yH4VvF7u2KU9EUiKVrjbHxiQhgyEucBU+xhfC9B3AgiQyWcjmBgBOoW4&#x000A;6O3vVlcr3X4W1zoNihB/ZhOBAxnXuAG0JgIyIlEOVyQjEzggiVr6wVewEgAV&#x000A;WoRQv8EBC0/AK27VsIY+/P7elGw2xJxtj4ga7GD01OjCLrGmHRCQYWuUl6n7&#x000A;SUB9PXhbPkz4AnIYymI5CSSXBtkQYYXmTWRioAi8tpqFRUCOJHhAnAjwABzF&#x000A;8VbVyyAQfzhBdVnsedgjgaJE6D2b6S2HOHBJPIAHAyXx4wd6ExaxbFczO4FS&#x000A;MyWIJQFGxEh7eVKWhTOjCMDIuuEUswS6aNek5rhADvZQBHjswQMUqA4rliBD&#x000A;srAmC8YITDS2sZvGgZf8bhW0v6SOnJqBnSY7WbTvAS6YsmJm/sLopDtuDAgo&#x000A;QQbnXoCbckANnLf6y5eCyZiooA5LBcDZcOgUNIaqE41AVGMajbi+dgXJdCKg&#x000A;Y/4RbRbBIWAzAPt0QT+PUc8ccBOdz8zosC4Io4GKJ6IUNUHMOKXDLz30mezU&#x000A;nztFGS4DlEgEM0UWMjG6SVzm8p4/+GhIWzDSbG6BLy3i4wki0KIFIEkFVG2A&#x000A;Vb9gLmGSQZXHWCoLmqqSB2RRJM3xzO3OAFan2uCj81gIypSimQIwwAE5eoAu&#x000A;00DWksKAhCVRigzhSQBUjgEcPKHBRMJhQHsoc1aKNEMEfMfKFtAtIFJZKZZI&#x000A;F4bJxqOxwFCVNlGhtcHWlbOdfUwvhDTV3MgCtBrxD2vH4LtoDOCsrSWUAUw1&#x000A;27egIV9ySewKFisAq4Qopr6dAwHVIafgrUOqyY0DcMJ3mxYGRKCSlWRAhdTR&#x000A;2+i6IRYC4Axv0rGPcfTGLt31bhsg0B6DuTaAAYCuevWwXPi6db6CyNcU9YXf&#x000A;QTyAZMztbyB8txDWVCcbBRHwH/Z73yuWF7cKpgNcQYoCmYg1wnJQgO8itTkM&#x000A;ByJbplKBYT3cBxf6lcQoTrGKV8ziFrv4xTCOsYxnTOMa2/jGOM6xjnfM4x77&#x000A;+MdADrKQh0zkIhv5yEhOspKXzOQmO/nJUI6ylKdM5Spb+cpYzrKWt8xl9YYA&#x000A;AAAh+QQJDAASACwAAAAAHwGNAAAF/qAkjmRpnmiqrmzrvnAsz3Rt33iu73zv&#x000A;/8CgcEgsGo/IpHLJbDqf0Kh0Sq1ar9isdsvter/gsHhMLpvP6LR6zW673/C4&#x000A;fE6v2+/4vH7P7/v/gIGCg4SFhoeIiYqLjI2Oj5CRkpOUlZaXmJmam5ydnp+g&#x000A;oaKjpKWmcBEDBAIEp64oqQIBs7OvtiQHtLoNt726tAa9t7K/A8K2CLTEAgYH&#x000A;KA4Px50Kv7oCChEjDrLG0poKxNXKDBK5tBDemODi7MXpluvtAeHiwe+S8coE&#x000A;BgYJBvTs7jFyoEABtAcDfhEgR+LBP3HE7AlElHCeAICtUCRgJ2DBREUVIUZL&#x000A;sWwWMwcf/hUB1CURRQNrCVIuWmmSoYpwAlDKTNSuIwsCykbuNBShp80UIQUc&#x000A;HToI3MWVvFbgFMr0EAQG9LqlKEosY1VFL+fNWlqCXsyvih7QE4DuRIFfLdEe&#x000A;MvBLqQmaZ0tFgNDAQd9sJPj69QuJZgFVb9spsBKhr2PAZxwQUDU5qogIkwlk&#x000A;hswIAs2eurxKQaCZclwyDTKr8jgCs6rXnBlRk6esWrcID2IvSaB6X5rUlAdY&#x000A;luC6NIG2juia5AhxRMKnAg7oTEL6tW80wDOzvtybgO5ERSFe3IcSqC7k4hYr&#x000A;qZ759BjJwbdf3ku/cD0GDeRLCIlcAkABeSHBniruiZHdapo4/tBcCQwYEE1C&#x000A;/UlQDYC79VYgC1chkAACfbkQgQMLbLjhAg18hwIEGnKITnaVlRDBizCaAOOL&#x000A;JDSmYQIRpgBBAhuWOF+MXjAwAEABShBPNEUqWBdVRwx43QsR8NYbZQiYKEEB&#x000A;xllHGQH6mSCldQQUYEBv+mFpnYtYZhZTBGMGp1mOJHypWgFyElDkFhBUdFGN&#x000A;5pg00gMKDLnWPNOVAE0QTl54AnxTknkCZo02mkKbjYI5gH5ZikachU6CWSgJ&#x000A;lFo6paJY5CkAAq2tJMADfcozQIQNXARnDom+kFp3ol4qI66RaipCqJm6yWUJ&#x000A;mboYaa6anQBspaWhikZItNFmQFuz/gVAag28WXctd90l0ECdqsRWnAELkOhP&#x000A;pgR8mm2m/GjmKAnF1pjZsfOqom697Rlg5rzbcqFWtMwpYwC0AajXQ60trItY&#x000A;CcAW4OWnIwAbIKTWFcDZAu+OsK8qxoJpJwQgk5axCOgWCkGW/XLhWW0At0zh&#x000A;wRa6kGmExWUGw8mqtSTkvL4eOCy8vXVcmsMlIOBmS5IFLTSBaygnT28t+wmz&#x000A;ti2cHBzRDPc2nIx8NYAAsC0dplqXLApHrNKtxVyCzy05eWfNA6TcBU2skCWB&#x000A;qQHPwiQOCj+pwgJg3imBnAMI3kCaWtbbUrxrjywB49wFd5rVpS3eG8TFMa3G&#x000A;A+L8nEID/np2vjcOCK/gZJcSsG0ouolrvqmbJ5SNKdqRt7cr1SPMfHvlaxAc&#x000A;gK+TsgM8rWqv0DfqZbeEca4FID6ZRJkna4LPZdL+Ou9CPw+0dTlGL7cWSi73&#x000A;vdO0DE887qY7LoLqtb+GY9pbQo/vovVuDfn1rsNve+69da+4GgTTCgyUQwwB&#x000A;9qBv22JAvZzFIDBtx0lb8972bDY9x90PbqfBIKjq1SUJjoEz4VFGDYgEhNKp&#x000A;IE/zwhoJNpYu/p1paX7D19ZSx8GzvVB/+Wuf33Z2Q/1pr0Yp6pGXgshAbRDR&#x000A;SjYQgKAOAJDvkaBaszDgDkyogkyJC3L3w5/fnOQrHmpmdj28/t4P5SW5wAhr&#x000A;WiOAAAvjkjxjWU8Cp/NB+CaUkyT+ooTd0QyW9himMI0gAYmDDJvAVESxUWZi&#x000A;a2yIsAiQm73sSzslYCEMM1g8kqGrj7iKC6NyGD1f9W2GOIBiNcznAvIFYFY3&#x000A;6FviugM0ntHJeZQpgSoJoCFD8uts9EocGCnow7jtbowicICbWldJGganiGLk&#x000A;WNHUF0p5OLEEonwmC7i4yh6isJr1+hTcjMOruFwzWOjapTJx6DcdnmaWw8Te&#x000A;CNhHTinGsQei/IXgYICVulzkMDroFDh5KQKcMUsVcEpa6wrAzj+ybh+EE6em&#x000A;NJg9X1YwWDgqZhvJaBwTQNAHyViO/jxvUM925JNX6RwnCW4lKtSl0V3W8QhD&#x000A;S4AzTxnTXQqd5O5ySAIH+MMAHOpnlpC5yXJ20kvMvAET2zHPF3RULHesgl9I&#x000A;BLGtkGgBSHRqfqJKhXV9cQxX4REgN2qDo46SKaikWGZQ+QWvSnME8dSFFCei&#x000A;RwY4AEYPmKUasiLUnqxVICwkpmZAOQaA2M1Dn5mFSe8BTlEh0wymJOUKoMUK&#x000A;B/BjYFU5qJYGS4aSBOCvKwihSZo6FK/lVY+ULYMp2RKDCGBELrCAwF7kYFrb&#x000A;jA4WKyEraln7GQHw1UX/uets5xAWV5HVPHXh7G7j0CqNjlIBJcoNoIa6oOHi&#x000A;AbgQsedTskDzO+fmQVVRq4s7rHsHeoDMd7T5zFm5GwYImAQ5EHgIyyYEXbWS&#x000A;1w6QNYFDAssKjyQAILd9Lx58ZycvKUO2+q3Dv37x2ucAOMB0GPAudITgQCiY&#x000A;FphtcCAYMKEDS7gPeVKFLOp44Q57+MMgDrGIR0ziEpv4xChOsYpXzOIWu/jF&#x000A;MI6xjGdM4xrb+MY4zrGOd8zjHvv4x0AOspCHTOQiG/nISE6ykpfM5CY7+clQ&#x000A;jjIkQgAAIfkEBQwAEgAsAAAAAB8BjQAABf6gJI5kaZ5oqq5s675wLM90bd94&#x000A;ru987//AoHBILBqPyKRyyWw6n9CodEqtWq/YrHbL7Xq/4LB4TC6bz+i0es1u&#x000A;u9/wuHxOr9vv+Lx+z+/7/4CBgoOEhYaHiImKi4yNjo+QkZKTlJWWl5iZmpuc&#x000A;nZ6foKGio6ReEaWoMwMDAgUDBw4PqbMnEQIBuLkKtLwjD7e5uLK9vAzBuALD&#x000A;xLMKwLkCDMuzDgPHAQTSqAoEzsgBAgnZnAewys3WwQIGyuKVDsADChEH3ei4&#x000A;A+ztkgfp9c/o+EZEeHBKHyNb9pARGGAAQQJWxwxIcKCA3gGDjBQkxEUgHwMC&#x000A;6ao9y4eREEJ74P5QMPA3siSiByK95ZKY4hy6lC4PPTAQ81k0FSDthcv58mE6&#x000A;CCv4ycw1lCiilc9YQAXoNNHUayweHBOw0MDPqoauJlthLBeBBSTBEoL5rCkK&#x000A;pbjcqkXUc4CKCDHHzlV0NQDNE3C/7V3ENpgBpCQcBMaZKgKEBg4gFxzxOHJk&#x000A;R32/qWPQ4ACrbtiyRIBMerIZBwsJLGxAIkLq1KYRUdsogGXaKQhUD1D910yD&#x000A;1LsXtAa+MLahk/825kKMJQHx3mV+7149fPpu5ofwKt/Y2wHnigd2Ocm9ezd0&#x000A;MtJTCxdInIDxtShrK1cnolk3AdiVkE99fgxq6+sJ5NiAjOz0jwCsNf5gAE8L&#x000A;+TOWRseE1sR+5qWRXnCZGNDWCYV5A40EEAZjlxPOlUdAfy1AwIBDCEDmQgQO&#x000A;LJAAiws08B4KELDYAFLpUddaBEACaUKQQgrUgEMJ5JcCBAnMaKMIRN54BUgC&#x000A;BGhCX+o4IMEvEaIwj3hCUHhiDBE4R9x0CEhZgG5nqnbWCmaaSEABBhBnpQRr&#x000A;mlhCBGumFk4EdVqnmpIkxAlcAYYSIFcWO6FYn0hZjpDZAF8JVA19YT4Hw39t&#x000A;mngnlGzKaeJuKQTa6WsD3BmqhKCa2NCpBGh5gqminuloGPSwQgACIjygAETW&#x000A;1FaAAqxJQA8y8gQh5q0l/NZerakO+Wybqv7NOm2tb5Kw6p7UQlutCbSuKiqv&#x000A;aLyDDE0MHLudOuoiEw8QJfL34qqKNpDobrG5Zt4CNSZQZ3uyjhDvc//aWcK2&#x000A;1YlL724BizCwqwbk+RqzXdh0Lj0sbRcREMu6EO9uBZQQbsglJNAwCeG65Rpx&#x000A;BZi2gMEkSExqwtMpCsHNucE8Ar0NQxAqxVsgp3E661bKQ8ctrJqfvmzC4DNw&#x000A;vTEgJ6siXJjtzsRxax3JJCAgaHcI0zymGZmhdGbGG3KsKQs+b22ticV6+diR&#x000A;4fbmCnCf9jhA3CKE3aq8za4tgpiLMt3VGR2i5FXDD/jbUzqL8vDx2CssIGfk&#x000A;hg4QeQN9jopqb/5+j2C1qlknfHgJbesGOnEnS8B0hYgbwBJXCdwmguzWdJSp&#x000A;qy2I+akEVkOH2rWCGz5z4AAeXDp7vGsNeN/EKWk80F1oKJM6v5sAweOM/YA0&#x000A;nDqToHdvL0NbQOenu97eCaOXIDPV00tr3eomSi/4GWUFE3kKO3UTkNrNW4Hv&#x000A;2Fe8MyWJeW76i/GoJgJO+QhrehLbeV5HOQkoTX6qS8MDAoOVGCQOUz+YHNA+&#x000A;Yh1ylUBqrwmQmPimvgBacHniC98LI4jA9NWQIShD1acoSL0t5I8jtlOBxQIw&#x000A;Iu/db0ly4lrMWAfB1GAQdn0TFAuBp0Pl0fBvUERgFlF4xb/Z0HUscv6SCWZE&#x000A;RhOOwAFhTBMRevKhGcDEGUV03dGOmIJV5ctvoWvh8yQgJgZyUTWk62L8nGfD&#x000A;7bHpRMyBwPugMz5uwXBwMvSB0ARggx9eozwCuIgO+qiaNXlyTnMSmOcmAyg5&#x000A;mfFu01HZIkkAk0N2BEiKRNXVRPA+52URixV8YXtA+SzhHZGCDJzcFHvQlx6i&#x000A;IChU0cHkPLc+rL1mTglA33RK1iaHoHJiyutWmwLpRNPhkJDfPKOgPOc5RqLK&#x000A;jHrsZtciiQPFhMcz6TCaDDgooh30kZlXNCQ+UXWyBcrya6jz1jgBaUV14nKC&#x000A;dFzmPzMYQxfqsTwmGGAP6OmTG1AUGYSagf6YBioo1LmJnKkh1PDIWYDgjXFh&#x000A;J8ocN4/nxXDesD/OMmDqbtlIbzJwhT54XDxvEKJ66C4H91woS0WH0uyJ4GkG&#x000A;G6RHAUbFmq0UfnTkYQoc4K+GFOtp5UEnp24JzJN6ygcX/YY8YxCiYAWRCZGp&#x000A;UetSEIEaLUBKd3ErXKswsFl+oaxb2d8LCrAV+ejFKRlVX/TGYLH7jPUF2jHL&#x000A;AiDgncAapJMMcECQGtcmMiAAGP4w5pW6oVeivA+kqhlmF6RmgCYZpaI04OBZ&#x000A;XaKwWqHTDGUFIZnqMZgmcnQhRh0DlsAEAw5qth1H+mwnc1sG3LlrtSUYYvdq&#x000A;KxAIOGYOUkuHMfLNlQ7kMjcOQ/zGWkugGJ36xbrXdUN2v7EOL9lnKzM5bHix&#x000A;izYBxEMB3mmAAn6Ftpastw7jvUlt5DM0Aqj3vmsQGtGGpplg/RfAakjcgNfF&#x000A;FRk5Y7kIhkO7bpFS726ltMM4B4QjDIcGwFFWjdvNTcrbrFVw+A72EUDrGudT&#x000A;FYD3xGiAgAL2x6V0wLhA91HxjRVRY/vu+BDG8GtttvvjQBhgxouNRZGXzOQm&#x000A;O/nJUI6ylKdM5Spb+cpYzrKWt8zlLnv5y2AOs5jHTOYym/nMaE6zmtfM5ja7&#x000A;+c1wjrOc50znOtv5znjOs573zOc++/nPWQgBAAA7' pagespeed_url_hash="3745788182" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+
+</article>
+</div>
+
+</div>
+<div class='modal' id='modal-remove-blob'>
+<div class='modal-dialog'>
+<div class='modal-content'>
+<div class='modal-header'>
+<a class='close' data-dismiss='modal' href='#'>×</a>
+<h3 class='page-title'>Remove loading.gif</h3>
+<p class='light'>
+From branch
+<strong>master</strong>
+</p>
+</div>
+<div class='modal-body'>
+<form accept-charset="UTF-8" action="/liferay-marketplace/market-salesforce-opportunities-portlet/blob/master/market-salesforce-opportunity-portlet/src/main/webapp/assets/images/loading.gif" class="form-horizontal js-requires-input" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;"/><input name="_method" type="hidden" value="delete"/><input name="authenticity_token" type="hidden" value="bUcKhMsL2dF6xRgm+XkyBEmR3hKDGKtRiiNBuJrk2tg="/></div>
+<div class='form-group commit_message-group'>
+<label class="control-label" for="commit_message">Commit message
+</label><div class='col-sm-10'>
+<div class='commit-message-container'>
+<div class='max-width-marker'></div>
+<textarea class="form-control" id="commit_message" name="commit_message" placeholder="Removed this file because..." required="required" rows="3">
+</textarea>
+</div>
+</div>
+</div>
+
+<div class='form-group'>
+<div class='col-sm-offset-2 col-sm-10'>
+<button class="btn btn-remove btn-remove-file" name="button" type="submit">Remove file</button>
+<a class="btn btn-cancel" data-dismiss="modal" href="#">Cancel</a>
+</div>
+</div>
+</form>
+
+</div>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<script>GitLab.GfmAutoComplete.dataSource="/liferay-marketplace/market-salesforce-opportunities-portlet/autocomplete_sources?type=NilClass&type_id=master%2Fmarket-salesforce-opportunity-portlet%2Fsrc%2Fmain%2Fwebapp%2Fassets%2Fimages%2Floading.gif"
+GitLab.GfmAutoComplete.setup();</script>
+
+
+</body>
+</html>
+
