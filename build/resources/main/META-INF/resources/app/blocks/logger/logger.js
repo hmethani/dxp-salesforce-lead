@@ -24,22 +24,23 @@
         /////////////////////
 
         function error(message, data, title) {
-            toastr.error(message, title);
+        	$().toastmessage('showErrorToast', message);
             $log.error('Error: ' + message, data);
         }
 
         function info(message, data, title) {
-            toastr.info(message, title);
+        	$().toastmessage('showNoticeToast', message);
             $log.info('Info: ' + message, data);
         }
 
         function success(message, data, title) {
-            toastr.success(message, title);
+        	$().toastmessage('showSuccessToast', message);
             $log.info('Success: ' + message, data);
         }
 
         function warning(message, data, title) {
-            toastr.warning(message, title);
+        	$().toastmessage('showWarningToast', message);
+        	alert('warn '+message);
             $log.warn('Warning: ' + message, data);
         }
     }

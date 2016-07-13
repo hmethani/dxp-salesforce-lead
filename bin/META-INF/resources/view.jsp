@@ -1,26 +1,17 @@
 <%@page import="com.liferay.portal.kernel.util.Validator"%>
 <%@page import="com.liferay.portal.kernel.util.StringPool"%>
 <%@page import="com.xtivia.salesforce.leads.configuration.LeadsConfiguration"%>
-<%
-/**
- * Copyright (c) 2000-2013 Liferay, Inc. All rights reserved.
- *
- * The contents of this file are subject to the terms of the Liferay Enterprise
- * Subscription License ("License"). You may not use this file except in
- * compliance with the License. You can obtain a copy of the License by
- * contacting Liferay, Inc. See the License for the specific language governing
- * permissions and limitations under the License, including but not limited to
- * distribution rights of the Software.
- *
- *
- *
- */
-%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 
 <%@ taglib uri="http://java.sun.com/portlet_2_0" prefix="portlet" %>
-<%@ taglib uri="http://liferay.com/tld/theme" prefix="liferay-theme"%>
 
-<liferay-theme:defineObjects />		
+<%@ taglib uri="http://liferay.com/tld/aui" prefix="aui" %><%@
+taglib uri="http://liferay.com/tld/portlet" prefix="liferay-portlet" %><%@
+taglib uri="http://liferay.com/tld/theme" prefix="liferay-theme" %><%@
+taglib uri="http://liferay.com/tld/ui" prefix="liferay-ui" %>
+
+<liferay-theme:defineObjects />
+
 <portlet:defineObjects />
 
 <% 
@@ -33,9 +24,7 @@ String clientSecret = StringPool.BLANK;
 String username = StringPool.BLANK;
 String password = StringPool.BLANK;
 String securityToken = StringPool.BLANK;
-System.out.println("Checking if not null");
 if (Validator.isNotNull(leadsConfiguration)) {
-System.out.println("Not null");
 	serviceUrl = leadsConfiguration.serviceUrl();
 	clientId = leadsConfiguration.clientId();
 	System.out.println(leadsConfiguration.clientId());

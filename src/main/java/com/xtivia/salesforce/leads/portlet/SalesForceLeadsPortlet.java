@@ -18,6 +18,7 @@ import org.osgi.service.component.annotations.Component;
 		"javax.portlet.resource-bundle=content.Language",
 		"javax.portlet.security-role-ref=power-user,user",
 		"com.liferay.portlet.header-portlet-css=/assets/css/app.css",
+		"com.liferay.portlet.header-portlet-css=/assets/css/toastr/jquery.toastmessage.css",
 		"com.liferay.portlet.header-portlet-javascript=/lib/jquery/jquery.js",
 		"com.liferay.portlet.header-portlet-javascript=/lib/datatables/jquery.dataTables.min.js",
 		"com.liferay.portlet.header-portlet-javascript=/lib/angular-1.3.2/angular.min.js",
@@ -32,12 +33,9 @@ import org.osgi.service.component.annotations.Component;
 		"com.liferay.portlet.header-portlet-javascript=/lib/angular-1.3.2/angular-cookies.min.js",
 		"com.liferay.portlet.header-portlet-javascript=/lib/angular-1.3.2/angular-sanitize.min.js",
 		"com.liferay.portlet.header-portlet-javascript=/lib/moment/moment.min.js",
-		"com.liferay.portlet.header-portlet-javascript=/lib/toastr/toastr.min.js",
+		"com.liferay.portlet.header-portlet-javascript=/lib/toastr/jquery.toastmessage.js",
 		"com.liferay.portlet.header-portlet-javascript=/lib/third-party-angular-modules/angular-ui-router.min.js",
 		"com.liferay.portlet.header-portlet-javascript=/lib/third-party-angular-modules/ui.bootstrap-tpls-0.8.0.min.js",
-		
-
-		
 		"com.liferay.portlet.footer-portlet-javascript=/app/blocks/exception/exception.module.js",
 		"com.liferay.portlet.footer-portlet-javascript=/app/blocks/exception/exception-handler.js",
 		"com.liferay.portlet.footer-portlet-javascript=/app/blocks/exception/exception.js",
@@ -60,7 +58,6 @@ import org.osgi.service.component.annotations.Component;
 
 		"com.liferay.portlet.footer-portlet-javascript=/app/featuresets/lead-details/lead-details.module.js",
 		"com.liferay.portlet.footer-portlet-javascript=/app/featuresets/lead-details/lead-details.controller.js"
-		//"com.liferay.portlet.footer-portlet-javascript=/app/app_nojquery.js"
 	},
 	service = Portlet.class
 )

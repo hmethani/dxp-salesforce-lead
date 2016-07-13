@@ -1,22 +1,36 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: dxp-salesforce-lead
-Bundle-SymbolicName: dxp-salesforce-lead
-Bundle-Version: 0.0.0
+Bundle-Name: salesforce.leads.portlet
+Bundle-SymbolicName: salesforce.leads.portlet
+Bundle-Version: 1.0.0
 Created-By: 1.8.0_92 (Oracle Corporation)
 Import-Package: aQute.bnd.annotation.metatype;version="[1.45,2)",com.l
  iferay.portal.configuration.metatype.bnd.util;version="[2.0,3)",com.l
- iferay.portal.kernel.log,com.liferay.portal.kernel.portlet,com.lifera
- y.portal.kernel.portlet.bridges.mvc,com.liferay.portal.kernel.util,ja
- vax.portlet,javax.servlet.http
+ iferay.portal.kernel.log;version="[7.0,8)",com.liferay.portal.kernel.
+ portlet;version="[7.0,8)",com.liferay.portal.kernel.portlet.bridges.m
+ vc;version="[1.0,2)",com.liferay.portal.kernel.util;version="[7.0,8)"
+ ,javax.portlet;version="[2.0,3)",javax.servlet;version="[3.0,4)",java
+ x.servlet.http;version="[3.0,4)"
+Javac-Debug: on
+Javac-Deprecation: off
+Javac-Encoding: Cp1252
 Private-Package: com.xtivia.salesforce.leads.configuration,com.xtivia.
  salesforce.leads.portlet,com.xtivia.salesforce.leads.util,com.xtivia.
  salesforce.model,com.xtivia.salesforce.rest,com.xtivia.salesforce.sin
  gleton.exceptions,com.xtivia.salesforce.util,content
 Provide-Capability: osgi.service;objectClass:List<String>="com.liferay
  .portal.kernel.portlet.ConfigurationAction",osgi.service;objectClass:
- List<String>="javax.portlet.Portlet"
-Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+ List<String>="javax.portlet.Portlet",liferay.resource.bundle;bundle.s
+ ymbolic.name="salesforce.leads.portlet";resource.bundle.base.name="co
+ ntent.Language"
+Require-Capability: osgi.extender;filter:="(&(osgi.extender=jsp.taglib
+ )(uri=http://java.sun.com/portlet_2_0))",osgi.extender;filter:="(&(os
+ gi.extender=jsp.taglib)(uri=http://liferay.com/tld/aui))",osgi.extend
+ er;filter:="(&(osgi.extender=jsp.taglib)(uri=http://liferay.com/tld/p
+ ortlet))",osgi.extender;filter:="(&(osgi.extender=jsp.taglib)(uri=htt
+ p://liferay.com/tld/theme))",osgi.extender;filter:="(&(osgi.extender=
+ jsp.taglib)(uri=http://liferay.com/tld/ui))",osgi.ee;filter:="(&(osgi
+ .ee=JavaSE)(version=1.8))"
 Service-Component: OSGI-INF/com.xtivia.salesforce.leads.configuration.
  LeadsConfigurationAction.xml,OSGI-INF/com.xtivia.salesforce.leads.por
  tlet.SalesForceLeadsPortlet.xml

@@ -32,9 +32,7 @@ String clientSecret = StringPool.BLANK;
 String username = StringPool.BLANK;
 String password = StringPool.BLANK;
 String securityToken = StringPool.BLANK;
-System.out.println("Checking if not null");
 if (Validator.isNotNull(leadsConfiguration)) {
-System.out.println("Not null");
 	serviceUrl = portletPreferences.getValue("serviceUrl",leadsConfiguration.serviceUrl());
 	clientId = portletPreferences.getValue("clientId", leadsConfiguration.clientId());
 	clientSecret = portletPreferences.getValue("clientSecret",leadsConfiguration.clientSecret());
@@ -79,7 +77,7 @@ System.out.println("Not null");
   		<label class="control-abel" for="security_token">Security Token</label>
   		<span class="instructions">The Security Token is for the user with the above username & it will be sent to that user's email address.</span>
   		<input id="security_token" class="field" name="<portlet:namespace/><%= LeadsUtil.SECURITY_TOKEN %>" type="text" value="<%= securityToken %>">
-  	</div>
+  	</div>a
   </aui:fieldset>
 
   <aui:button-row>
